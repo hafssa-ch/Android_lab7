@@ -34,6 +34,11 @@ Java : Langage principal du projet.
 Glide : Chargement et mise en cache efficace des images distantes.
 
 CircleImageView : Pour des avatars circulaires élégants.
+
+RecyclerView : Gestion performante des listes volumineuses.
+
+AndroidX : Composants de support modernes.
+
 ## Resultat attendu
 
 
@@ -41,6 +46,4 @@ https://github.com/user-attachments/assets/2d917730-c6eb-4498-83e7-0cedffd9101f
 
 
 
-RecyclerView : Gestion performante des listes volumineuses.
 
-AndroidX : Composants de support modernes.
